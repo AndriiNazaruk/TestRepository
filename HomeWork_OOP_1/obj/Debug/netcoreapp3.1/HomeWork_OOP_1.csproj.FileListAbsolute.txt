@@ -1,0 +1,13 @@
+C:\Users\nazar\Desktop\Test\HomeWork_OOP_1\bin\Debug\netcoreapp3.1\HomeWork_OOP_1.exe
+C:\Users\nazar\Desktop\Test\HomeWork_OOP_1\bin\Debug\netcoreapp3.1\HomeWork_OOP_1.deps.json
+C:\Users\nazar\Desktop\Test\HomeWork_OOP_1\bin\Debug\netcoreapp3.1\HomeWork_OOP_1.runtimeconfig.json
+C:\Users\nazar\Desktop\Test\HomeWork_OOP_1\bin\Debug\netcoreapp3.1\HomeWork_OOP_1.runtimeconfig.dev.json
+C:\Users\nazar\Desktop\Test\HomeWork_OOP_1\bin\Debug\netcoreapp3.1\HomeWork_OOP_1.dll
+C:\Users\nazar\Desktop\Test\HomeWork_OOP_1\bin\Debug\netcoreapp3.1\HomeWork_OOP_1.pdb
+C:\Users\nazar\Desktop\Test\HomeWork_OOP_1\obj\Debug\netcoreapp3.1\HomeWork_OOP_1.csprojAssemblyReference.cache
+C:\Users\nazar\Desktop\Test\HomeWork_OOP_1\obj\Debug\netcoreapp3.1\HomeWork_OOP_1.AssemblyInfoInputs.cache
+C:\Users\nazar\Desktop\Test\HomeWork_OOP_1\obj\Debug\netcoreapp3.1\HomeWork_OOP_1.AssemblyInfo.cs
+C:\Users\nazar\Desktop\Test\HomeWork_OOP_1\obj\Debug\netcoreapp3.1\HomeWork_OOP_1.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\Test\HomeWork_OOP_1\obj\Debug\netcoreapp3.1\HomeWork_OOP_1.dll
+C:\Users\nazar\Desktop\Test\HomeWork_OOP_1\obj\Debug\netcoreapp3.1\HomeWork_OOP_1.pdb
+C:\Users\nazar\Desktop\Test\HomeWork_OOP_1\obj\Debug\netcoreapp3.1\HomeWork_OOP_1.genruntimeconfig.cache
